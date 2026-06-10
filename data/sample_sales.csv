@@ -1,0 +1,101 @@
+Date,Medicine_ID,Medicine_Name,Category,Supplier,Region,Units_Sold,Unit_Price,Revenue,Inventory_Level
+2024-01-01,M001,Paracetamol,Pain Relief,Cipla,Bangalore,120,5,600,500
+2024-01-02,M002,Cetirizine,Allergy,Sun Pharma,Mysore,80,8,640,350
+2024-01-03,M003,Azithromycin,Antibiotic,Dr Reddy's,Mangalore,60,25,1500,200
+2024-01-04,M004,Amoxicillin,Antibiotic,Apollo Pharma,Hubli,95,15,1425,300
+2024-01-05,M005,Vitamin C,Vitamins,Himalaya,Bangalore,150,10,1500,600
+2024-01-06,M006,Metformin,Diabetes,Cipla,Mysore,110,12,1320,450
+2024-01-07,M007,Insulin,Diabetes,Sun Pharma,Bangalore,45,55,2475,180
+2024-01-08,M008,Pantoprazole,Gastro,Dr Reddy's,Hubli,90,18,1620,320
+2024-01-09,M009,Amlodipine,BP,Cipla,Mangalore,130,7,910,700
+2024-01-10,M010,Telmisartan,BP,Apollo Pharma,Belgaum,85,20,1700,260
+2024-01-11,M011,Atorvastatin,Cholesterol,Sun Pharma,Bangalore,70,22,1540,280
+2024-01-12,M012,ORS,Hydration,Himalaya,Mysore,160,6,960,900
+2024-01-13,M013,Zinc Tablets,Supplements,Cipla,Hubli,105,9,945,430
+2024-01-14,M014,Cough Syrup,Cold & Cough,Dr Reddy's,Mangalore,75,35,2625,210
+2024-01-15,M015,Dolo 650,Fever,Apollo Pharma,Bangalore,180,8,1440,850
+2024-01-16,M016,Liv 52,Liver Care,Himalaya,Belgaum,65,28,1820,290
+2024-01-17,M017,Glimepiride,Diabetes,Cipla,Mysore,95,14,1330,370
+2024-01-18,M018,Omeprazole,Gastro,Sun Pharma,Hubli,115,16,1840,410
+2024-01-19,M019,Paracetamol,Pain Relief,Dr Reddy's,Bangalore,140,5,700,550
+2024-01-20,M020,Vitamin D3,Vitamins,Himalaya,Mangalore,100,18,1800,340
+2024-01-21,M021,Ibuprofen,Pain Relief,Cipla,Belgaum,125,9,1125,520
+2024-01-22,M022,Cetirizine,Allergy,Sun Pharma,Bangalore,82,8,656,360
+2024-01-23,M023,Azithromycin,Antibiotic,Dr Reddy's,Mysore,68,25,1700,220
+2024-01-24,M024,Amoxicillin,Antibiotic,Apollo Pharma,Hubli,90,15,1350,290
+2024-01-25,M025,Vitamin C,Vitamins,Himalaya,Bangalore,155,10,1550,610
+2024-01-26,M026,Metformin,Diabetes,Cipla,Mangalore,115,12,1380,460
+2024-01-27,M027,Insulin,Diabetes,Sun Pharma,Belgaum,48,55,2640,190
+2024-01-28,M028,Pantoprazole,Gastro,Dr Reddy's,Bangalore,95,18,1710,330
+2024-01-29,M029,Amlodipine,BP,Cipla,Mysore,128,7,896,690
+2024-01-30,M030,Telmisartan,BP,Apollo Pharma,Hubli,88,20,1760,270
+2024-01-31,M031,Atorvastatin,Cholesterol,Sun Pharma,Mangalore,72,22,1584,285
+2024-02-01,M032,ORS,Hydration,Himalaya,Bangalore,170,6,1020,920
+2024-02-02,M033,Zinc Tablets,Supplements,Cipla,Belgaum,110,9,990,440
+2024-02-03,M034,Cough Syrup,Cold & Cough,Dr Reddy's,Mysore,78,35,2730,215
+2024-02-04,M035,Dolo 650,Fever,Apollo Pharma,Bangalore,185,8,1480,860
+2024-02-05,M036,Liv 52,Liver Care,Himalaya,Hubli,68,28,1904,295
+2024-02-06,M037,Glimepiride,Diabetes,Cipla,Mangalore,98,14,1372,380
+2024-02-07,M038,Omeprazole,Gastro,Sun Pharma,Bangalore,118,16,1888,420
+2024-02-08,M039,Paracetamol,Pain Relief,Dr Reddy's,Belgaum,145,5,725,560
+2024-02-09,M040,Vitamin D3,Vitamins,Himalaya,Mysore,105,18,1890,350
+2024-02-10,M041,Ibuprofen,Pain Relief,Cipla,Hubli,130,9,1170,530
+2024-02-11,M042,Cetirizine,Allergy,Sun Pharma,Mangalore,85,8,680,365
+2024-02-12,M043,Azithromycin,Antibiotic,Dr Reddy's,Bangalore,70,25,1750,225
+2024-02-13,M044,Amoxicillin,Antibiotic,Apollo Pharma,Mysore,92,15,1380,295
+2024-02-14,M045,Vitamin C,Vitamins,Himalaya,Hubli,160,10,1600,620
+2024-02-15,M046,Metformin,Diabetes,Cipla,Bangalore,118,12,1416,470
+2024-02-16,M047,Insulin,Diabetes,Sun Pharma,Mangalore,50,55,2750,195
+2024-02-17,M048,Pantoprazole,Gastro,Dr Reddy's,Belgaum,98,18,1764,335
+2024-02-18,M049,Amlodipine,BP,Cipla,Bangalore,132,7,924,710
+2024-02-19,M050,Telmisartan,BP,Apollo Pharma,Mysore,90,20,1800,275
+2024-02-20,M051,Atorvastatin,Cholesterol,Sun Pharma,Hubli,75,22,1650,290
+2024-02-21,M052,ORS,Hydration,Himalaya,Mangalore,175,6,1050,930
+2024-02-22,M053,Zinc Tablets,Supplements,Cipla,Bangalore,115,9,1035,450
+2024-02-23,M054,Cough Syrup,Cold & Cough,Dr Reddy's,Belgaum,80,35,2800,220
+2024-02-24,M055,Dolo 650,Fever,Apollo Pharma,Mysore,190,8,1520,870
+2024-02-25,M056,Liv 52,Liver Care,Himalaya,Bangalore,70,28,1960,300
+2024-02-26,M057,Glimepiride,Diabetes,Cipla,Hubli,100,14,1400,385
+2024-02-27,M058,Omeprazole,Gastro,Sun Pharma,Mangalore,120,16,1920,430
+2024-02-28,M059,Paracetamol,Pain Relief,Dr Reddy's,Bangalore,150,5,750,570
+2024-02-29,M060,Vitamin D3,Vitamins,Himalaya,Belgaum,108,18,1944,360
+2024-03-01,M061,Ibuprofen,Pain Relief,Cipla,Mysore,135,9,1215,540
+2024-03-02,M062,Cetirizine,Allergy,Sun Pharma,Hubli,88,8,704,370
+2024-03-03,M063,Azithromycin,Antibiotic,Dr Reddy's,Mangalore,72,25,1800,230
+2024-03-04,M064,Amoxicillin,Antibiotic,Apollo Pharma,Bangalore,95,15,1425,305
+2024-03-05,M065,Vitamin C,Vitamins,Himalaya,Mysore,165,10,1650,630
+2024-03-06,M066,Metformin,Diabetes,Cipla,Hubli,120,12,1440,480
+2024-03-07,M067,Insulin,Diabetes,Sun Pharma,Bangalore,52,55,2860,200
+2024-03-08,M068,Pantoprazole,Gastro,Dr Reddy's,Mangalore,100,18,1800,340
+2024-03-09,M069,Amlodipine,BP,Cipla,Belgaum,135,7,945,720
+2024-03-10,M070,Telmisartan,BP,Apollo Pharma,Bangalore,92,20,1840,280
+2024-03-11,M071,Atorvastatin,Cholesterol,Sun Pharma,Mysore,78,22,1716,295
+2024-03-12,M072,ORS,Hydration,Himalaya,Hubli,180,6,1080,940
+2024-03-13,M073,Zinc Tablets,Supplements,Cipla,Mangalore,118,9,1062,455
+2024-03-14,M074,Cough Syrup,Cold & Cough,Dr Reddy's,Bangalore,82,35,2870,225
+2024-03-15,M075,Dolo 650,Fever,Apollo Pharma,Belgaum,195,8,1560,880
+2024-03-16,M076,Liv 52,Liver Care,Himalaya,Mysore,72,28,2016,310
+2024-03-17,M077,Glimepiride,Diabetes,Cipla,Bangalore,105,14,1470,390
+2024-03-18,M078,Omeprazole,Gastro,Sun Pharma,Hubli,125,16,2000,440
+2024-03-19,M079,Paracetamol,Pain Relief,Dr Reddy's,Mangalore,155,5,775,580
+2024-03-20,M080,Vitamin D3,Vitamins,Himalaya,Bangalore,110,18,1980,370
+2024-03-21,M081,Ibuprofen,Pain Relief,Cipla,Belgaum,140,9,1260,550
+2024-03-22,M082,Cetirizine,Allergy,Sun Pharma,Mysore,90,8,720,375
+2024-03-23,M083,Azithromycin,Antibiotic,Dr Reddy's,Hubli,75,25,1875,235
+2024-03-24,M084,Amoxicillin,Antibiotic,Apollo Pharma,Mangalore,98,15,1470,310
+2024-03-25,M085,Vitamin C,Vitamins,Himalaya,Bangalore,170,10,1700,640
+2024-03-26,M086,Metformin,Diabetes,Cipla,Mysore,125,12,1500,490
+2024-03-27,M087,Insulin,Diabetes,Sun Pharma,Hubli,55,55,3025,210
+2024-03-28,M088,Pantoprazole,Gastro,Dr Reddy's,Bangalore,105,18,1890,350
+2024-03-29,M089,Amlodipine,BP,Cipla,Mangalore,138,7,966,730
+2024-03-30,M090,Telmisartan,BP,Apollo Pharma,Belgaum,95,20,1900,285
+2024-03-31,M091,Atorvastatin,Cholesterol,Sun Pharma,Bangalore,80,22,1760,300
+2024-04-01,M092,ORS,Hydration,Himalaya,Mysore,185,6,1110,950
+2024-04-02,M093,Zinc Tablets,Supplements,Cipla,Hubli,120,9,1080,460
+2024-04-03,M094,Cough Syrup,Cold & Cough,Dr Reddy's,Mangalore,85,35,2975,230
+2024-04-04,M095,Dolo 650,Fever,Apollo Pharma,Bangalore,200,8,1600,900
+2024-04-05,M096,Liv 52,Liver Care,Himalaya,Belgaum,75,28,2100,320
+2024-04-06,M097,Glimepiride,Diabetes,Cipla,Mysore,110,14,1540,400
+2024-04-07,M098,Omeprazole,Gastro,Sun Pharma,Hubli,130,16,2080,450
+2024-04-08,M099,Paracetamol,Pain Relief,Dr Reddy's,Bangalore,160,5,800,600
+2024-04-09,M100,Vitamin D3,Vitamins,Himalaya,Mangalore,115,18,2070,380
