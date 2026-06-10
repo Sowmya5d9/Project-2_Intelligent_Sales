@@ -1,5 +1,6 @@
 # 📊 AI-Powered Business Intelligence & Inventory Optimization System
-
+# Live Link
+https://project-2-intelligent-sales.onrender.com
 ## 🚀 Project Overview
 
 The AI-Powered Business Intelligence & Inventory Optimization System is a Streamlit-based web application that helps businesses analyze sales data, forecast future demand, optimize inventory levels, and generate intelligent business insights.
